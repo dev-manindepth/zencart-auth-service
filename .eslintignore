@@ -1,0 +1,6 @@
+dist
+node_modules/
+.eslintrc.cjs
+tsconfig.json
+package.json
+package-lock.json
